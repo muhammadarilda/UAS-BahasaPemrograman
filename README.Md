@@ -1,4 +1,4 @@
-# praktikum6
+# praktikum 6
 # PACKAGE & MODULE
 **Tugas ini berdasarkan praktikum sebelumnya dengan struktur seperti ini:**
 
