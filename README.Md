@@ -32,4 +32,5 @@
   ![hapus](https://github.com/muhammadarilda/UAS-BahasaPemrograman/blob/master/foto/hapus_data.png)
 
 * **Output break**
+
 ![keluar](https://github.com/muhammadarilda/UAS-BahasaPemrograman/blob/master/foto/break.png)
